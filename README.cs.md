@@ -9,7 +9,7 @@ Tento projekt je kolekce skriptů k automatickému nasazení virtuálního přis
 K užití těcho scriptů otevřete Cloud shell na Azure portálu:
 ![Lokace cloud shell tlačítka na Azure portálu](az-cloudshell.png)
 
-Otevřete Powershellový terminál a spusťte tyto příkazy:
+Otevřete Powershellový terminál a spusťte tyto příkazy:\
 `wget https://git.io/JDBfr`\
 `./deployinstall.ps1`
 
