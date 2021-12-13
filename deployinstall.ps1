@@ -9,4 +9,5 @@ ssh azurevpnvm@$publicip '
 wget "https://git.io/JDBfW"
 chmod +x wireguard-install.sh
 ./wireguard-install.sh
+sudo passwd
 '
