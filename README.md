@@ -7,7 +7,7 @@ This project is a collection of scripts to automatically deploy a virtual machin
 
 ### Usage
 To use these scripts open Azure cloud shell on Azure portal
-![Azure Portal cloud shell button location](az-cloushell.png)
+![Azure Portal cloud shell button location](./az-cloushell.png)
 Open the Powershell terminal and run these commands:
 
 `wget #link`
