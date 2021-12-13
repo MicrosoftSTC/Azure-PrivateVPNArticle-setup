@@ -3,11 +3,13 @@
 ## Čeština
 README v češtině [zde](odkaz na cz readme)
 
-## Description
-Two scripts and an ARM template which can be used to deploy a Virtual machine in Azure cloud. The Wireguard VPN service will be then installed on the VM.
+This project is a collection of scripts to automatically deploy a virtual machine in Azure cloud. And then install Wireguard VPN service in the VM to use as your own private VPN server. The scripts are used to make the setup as easy as possible.
 
-## Usage
-To use these scripts open Azure cloud shell on Azure portal and open the Powershell terminal then run these commands:
+### Usage
+To use these scripts open Azure cloud shell on Azure portal
+![Azure Portal cloud shell button location](az-cloushell.png)
+Open the Powershell terminal and run these commands:
+
 `wget #link
 ./deployinstall.ps1`
 
