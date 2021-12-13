@@ -10,7 +10,7 @@ K užití těcho scriptů otevřete Cloud shell na Azure portálu:
 ![Lokace cloud shell tlačítka na Azure portálu](az-cloudshell.png)
 
 Otevřete Powershellový terminál a spusťte tyto příkazy:
-`wget #link`
+`wget https://git.io/JDBfr`\
 `./deployinstall.ps1`
 
 Dvakrát se vás to zeptá na zadání hesla. Heslo e AzureWireguardVPN2021. Nebojte změníte si ho později. Až se instalace dokončí budete se moct pomcí SSH připojit na server a spustit příkaz `sudo ./wireguard-install.sh` k přidání klientů VPN.
