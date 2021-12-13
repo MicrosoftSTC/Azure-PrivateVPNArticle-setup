@@ -10,8 +10,8 @@ To use these scripts open Azure cloud shell on Azure portal
 ![Azure Portal cloud shell button location](az-cloushell.png)
 Open the Powershell terminal and run these commands:
 
-`wget #link
-./deployinstall.ps1`
+`wget #link`
+`./deployinstall.ps1`
 
 You will be asked twice to input a password, the password is AzureWireguardVPN2021. Don't worry you will change it later.
 After the setup finishes you can SSH into the server and run `sudo ./wireguard-install.sh` to add clients to the VPN.
