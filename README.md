@@ -9,7 +9,7 @@ To use these scripts open Azure cloud shell on Azure portal
 ![Azure Portal Cloud shell button location](az-cloudshell.png)
 Open the Powershell terminal and run these commands:
 
-`wget #link`
+`wget #link`\
 `./deployinstall.ps1`
 
 You will be asked twice to input a password, the password is AzureWireguardVPN2021. Don't worry you will change it later.
