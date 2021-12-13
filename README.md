@@ -1,6 +1,5 @@
 # Azure Private VPN article setup scripts
 
-## Čeština
 README v češtině [zde](odkaz na cz readme)
 
 This project is a collection of scripts to automatically deploy a virtual machine in Azure cloud. And then install Wireguard VPN service in the VM to use as your own private VPN server. The scripts are used to make the setup as easy as possible.
