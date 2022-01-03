@@ -13,7 +13,7 @@ Otevřete Powershellový terminál a spusťte tyto příkazy:\
 `wget https://git.io/JDBfr`\
 `./deployinstall.ps1`
 
-Dvakrát se vás to zeptá na zadání hesla. Heslo e AzureWireguardVPN2021. Nebojte změníte si ho později. Až se instalace dokončí budete se moct pomcí SSH připojit na server a spustit příkaz `sudo ./wireguard-install.sh` k přidání klientů VPN.
+Dvakrát se vás to zeptá na zadání hesla. Heslo je AzureWireguardVPN2021. Nebojte změníte si ho později. Až se instalace dokončí budete se moct pomcí SSH připojit na server a spustit příkaz `sudo ./wireguard-install.sh` k přidání klientů VPN.
 
 ## Credit
 Wireguard install skript je založen na vynikajícím wireguard-install.sh skriptu od [@angristan](https://github.com/angristan/wireguard-install)
